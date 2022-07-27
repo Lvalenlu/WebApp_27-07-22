@@ -1,0 +1,12 @@
+#p1{/*id*/
+    background-color: aqua;
+    padding: 15px;
+    margin-top:50px ;}
+.paragraph{/*class*/
+    color: blueviolet;
+    text-align: justify;
+}
+h3{/*etiqueta*/
+    text-align: center;
+    color: #8C503A;
+}
